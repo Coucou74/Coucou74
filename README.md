@@ -7,7 +7,7 @@ Bonjour, je suis Coucou74, une personne passionée par la technologie réseau, s
 
 Voici quelques informations sur moi :
 - **Nom d'utilisateur GitHub**: Coucou74
-- **Passionné par**: le Réseau (Swicth, Routeur, Firewall ...), Les Serveur (AD, DNS, DHCP, ...), Programmation.
+- **Passionné par**: le Réseau (Swicth, Routeur, Firewall ...), Les Serveurs (AD, DNS, DHCP, ...), Programmation.
 - **Langages de programmation préférés**: Python.
 - **Expérience**: J'ai travaillé sur plusieurs projett (Création Lab, Configuration Réseau Virtuelle, Programmer des outils, script, ...)
 
