@@ -3,20 +3,13 @@
 
 ## À propos de moi
 
-Bonjour, je suis Coucou74, un développeur passionné par la technologie et le développement de logiciels. Voici quelques informations sur moi :
+Bonjour, je suis Coucou74, une personne passionée par la technologie réseau, système, sécurité et le développement outil, script.... 
 
+Voici quelques informations sur moi :
 - **Nom d'utilisateur GitHub**: Coucou74
-- **Passionné par**: Développement web, programmation, et projets open-source.
-- **Langages de programmation préférés**: HTML, CSS, PHP, SQL, Python.
-- **Expérience**: J'ai travaillé sur plusieurs projets allant de petites applications web à de grandes applications logicielles.
-
-## 🌟 Projets
-
-Voici quelques projets sur lesquels j'ai travaillé :
-
-1. **[Nom du Projet 1](lien_vers_projet_1)**: Brève description du projet 1.
-2. **[Nom du Projet 2](lien_vers_projet_2)**: Brève description du projet 2.
-3. **[Nom du Projet 3](lien_vers_projet_3)**: Brève description du projet 3.
+- **Passionné par**: le Réseau (Swicth, Routeur, Firewall ...), Les Serveur (AD, DNS, DHCP, ...), Programmation.
+- **Langages de programmation préférés**: Python.
+- **Expérience**: J'ai travaillé sur plusieurs projett (Création Lab, Configuration Réseau Virtuelle, Programmer des outils, script, ...)
 
 ## 🛠️ Outils que j'utilise
 
@@ -26,7 +19,8 @@ Voici quelques outils que j'utilise fréquemment :
 - <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="50"/>  PyCharm
 - <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="50"/>  WebStorm
 - <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50"/>  Docker
-- VMware
+  
+- VMware | Proxmox
 
 ## 👨‍💻 Langages de programmation
 
@@ -40,45 +34,18 @@ Voici les langages que je connais le mieux :
 
 
 ## 🌐 Réseau
-
-Voici quelques outils et équipements réseau que j'utilise :
-
-<div style="display: flex; align-items: center;">
-  <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" id="wireless">
-    <path fill="#2b4255" d="M283.088 1150.111a.5.5 0 0 0-.381.178l-2.553 3a.5.5 0 0 0 .381.822h22a.5.5 0 0 0 .381-.824l-2.562-3a.5.5 0 0 0-.381-.176h-16.885zm.23 1h16.424l1.71 2h-19.835l1.701-2z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
-    <path fill="#2b4255" d="M280.535 1144.111a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h22a.5.5 0 0 0 .5-.5v-6a.5.5 0 0 0-.5-.5h-22zm.5 1h21v5h-21v-5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
-    <path fill="#f8b84e" d="M7 8h2v2H7zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"></path>
-    <path fill="#2b4255" d="M19 9h3v1h-3zm0-2h3v1h-3zm4 2h3v1h-3zm0-2h3v1h-3z"></path>
-    <path fill="#2b4255" d="M280.535 1153.111a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h22a.5.5 0 0 0 .5-.5v-6a.5.5 0 0 0-.5-.5h-22zm.5 1h21v5h-21v-5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
-    <path fill="#f8b84e" d="M7 17h2v2H7zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"></path>
-    <path fill="#2b4255" d="M19 18h3v1h-3zm0-2h3v1h-3zm4 2h3v1h-3zm0-2h3v1h-3z"></path>
-    <path fill="#2b4255" d="M280.535 1162.111a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h22a.5.5 0 0 0 .5-.5v-6a.5.5 0 0 0-.5-.5h-22zm.5 1h21v5h-21v-5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
-    <path fill="#f8b84e" d="M7 26h2v2H7zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"></path>
-    <path fill="#2b4255" d="M19 27h3v1h-3zm0-2h3v1h-3zm4 2h3v1h-3zm0-2h3v1h-3z"></path>
-    <path fill="#2b4255" d="M283.088 1159.111a.5.5 0 0 0-.381.178l-2.553 3a.5.5 0 0 0 .381.822h22a.5.5 0 0 0 .381-.824l-2.562-3a.5.5 0 0 0-.381-.176h-16.885zm.23 1h16.424l1.71 2h-19.835l1.701-2zm-.23-19a.5.5 0 0 0-.381.178l-2.553 3a.5.5 0 0 0 .381.822h22a.5.5 0 0 0 .381-.824l-2.562-3a.5.5 0 0 0-.381-.176h-16.885zm.23 1h16.424l1.71 2h-19.835l1.701-2z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
-  </svg>
-  <span style="margin-left: 10px;">Switch</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Router-icon.svg" alt="Routeur" width="50"/>
-  <span style="margin-left: 10px;">Routeur</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Firewall-icon.svg" alt="Firewall" width="50"/>
-  <span style="margin-left: 10px;">Firewall</span>
-</div>
-<div style="display: flex; align-items: center;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Server-icon.svg" alt="Serveur" width="50"/>
-  <span style="margin-left: 10px;">Serveur</span>
-</div>
+Voici des équipements réseau que j'utilise :
+- Switch
+- Routeur
+- Firewall
+- Serveur
 
 ## 📫 Contact
 
 Vous pouvez me contacter via les plateformes suivantes :
 
-- **Email**: [votre_email@example.com](mailto:votre_email@example.com)
-- **LinkedIn**: [Votre Profil LinkedIn](lien_vers_linkedin)
-- **Twitter**: [@VotreTwitter](https://twitter.com/VotreTwitter)
+- **Email**: [votre_email@example.com](mailto:mayeul_brochier@hotmail.com)
+- **LinkedIn**: [Votre Profil LinkedIn](www.linkedin.com/in/mayeul-brochier-904317255)
 
 Merci de visiter mon profil GitHub !
 
