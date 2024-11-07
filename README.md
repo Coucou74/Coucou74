@@ -1,3 +1,4 @@
+
 # 👋 Bienvenue sur mon profil GitHub !
 
 ## À propos de moi
@@ -31,11 +32,12 @@ Voici quelques outils que j'utilise fréquemment :
 
 Voici les langages que je connais le mieux :
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50"/> HTML
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50"/> CSS
-- <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50"/> PHP
-- <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50"/> SQL
-- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/> Python
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🌐 Réseau
 
@@ -57,5 +59,3 @@ Vous pouvez me contacter via les plateformes suivantes :
 Merci de visiter mon profil GitHub !
 
 ---
-
-*Ce README a été généré par GitHub Copilot.*
