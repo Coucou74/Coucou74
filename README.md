@@ -44,8 +44,8 @@ Voici des équipements réseau que j'utilise :
 
 Vous pouvez me contacter via les plateformes suivantes :
 
-- **Email**: [votre_email@example.com](mailto:mayeul_brochier@hotmail.com)
-- **LinkedIn**: [Votre Profil LinkedIn](www.linkedin.com/in/mayeul-brochier-904317255)
+- **Email**: [mayeul_brochier@hotmail.com](mailto:mayeul_brochier@hotmail.com)
+- **LinkedIn**: [Mon Profil LinkedIn](www.linkedin.com/in/mayeul-brochier-904317255)
 
 Merci de visiter mon profil GitHub !
 
