@@ -21,30 +21,31 @@ Voici quelques projets sur lesquels j'ai travaillé :
 
 Voici quelques outils que j'utilise fréquemment :
 
-- ![PHPStorm](https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg) PHPStorm
-- ![PyCharm](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg) PyCharm
-- ![WebStorm](https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg) WebStorm
-- ![Docker](https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png) Docker
-- ![VMWare](https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Workstation_16_icon.svg) VMware
+- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PHPStorm" width="50"/> PHPStorm
+- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="50"/> PyCharm
+- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="50"/> WebStorm
+- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50"/> Docker
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Workstation_16_icon.svg" alt="VMWare" width="50"/> VMware
 
 ## 👨‍💻 Langages de programmation
 
 Voici les langages que je connais le mieux :
 
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) HTML
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg) CSS
-- ![PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg) PHP
-- ![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png) SQL
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ## 🌐 Réseau
 
 Voici quelques outils et équipements réseau que j'utilise :
 
-- ![Switch](https://upload.wikimedia.org/wikipedia/commons/3/3a/Switch-icon.svg) Switch
-- ![Routeur](https://upload.wikimedia.org/wikipedia/commons/1/10/Router-icon.svg) Routeur
-- ![Firewall](https://upload.wikimedia.org/wikipedia/commons/1/1b/Firewall-icon.svg) Firewall
-- ![Serveur](https://upload.wikimedia.org/wikipedia/commons/6/64/Server-icon.svg) Serveur
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Switch-icon.svg" alt="Switch" width="50"/> Switch
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Router-icon.svg" alt="Routeur" width="50"/> Routeur
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Firewall-icon.svg" alt="Firewall" width="50"/> Firewall
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Server-icon.svg" alt="Serveur" width="50"/> Serveur
 
 ## 📫 Contact
 
