@@ -18,7 +18,6 @@ Voici quelques projets sur lesquels j'ai travaillé :
 2. **[Nom du Projet 2](lien_vers_projet_2)**: Brève description du projet 2.
 3. **[Nom du Projet 3](lien_vers_projet_3)**: Brève description du projet 3.
 
-
 ## 🛠️ Outils que j'utilise
 
 Voici quelques outils que j'utilise fréquemment :
