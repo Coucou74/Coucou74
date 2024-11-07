@@ -26,7 +26,7 @@ Voici quelques outils que j'utilise fréquemment :
 - <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="50"/>  PyCharm
 - <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="50"/>  WebStorm
 - <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50"/>  Docker
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fvmware-logo-png-vmware-workstation-logo-png-free-transparent-png-clipart-images-840x471.jpg&f=1&nofb=1&ipt=2581630c411815e4cfb3c6b3b98db7c65d8b91a5e1f2a8a810a382b00421e9a8&ipo=images" alt="VMWare" width="50"/>  VMware
+- VMware
 
 ## 👨‍💻 Langages de programmation
 
@@ -43,7 +43,7 @@ Voici les langages que je connais le mieux :
 
 Voici quelques outils et équipements réseau que j'utilise :
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Switch-icon.svg" alt="Switch" width="50"/> Switch
+- <img src="[https://upload.wikimedia.org/wikipedia/commons/3/3a/Switch-icon.svg](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F810%2F83%2Fpng-transparent-black-ethernet-switch-hub-illustration-network-switch-computer-network-ethernet-local-area-network-computer-icons-switch-computer-electronic-device-multimedia.png&f=1&nofb=1&ipt=5de1718af875aa85a36322abe20101b80e02da4c1aecf56ac9cd92b1937a3af7&ipo=images)" alt="Switch" width="50"/> Switch
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Router-icon.svg" alt="Routeur" width="50"/> Routeur
 - <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Firewall-icon.svg" alt="Firewall" width="50"/> Firewall
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Server-icon.svg" alt="Serveur" width="50"/> Serveur
