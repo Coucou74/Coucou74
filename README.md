@@ -18,15 +18,31 @@ Voici quelques projets sur lesquels j'ai travaillé :
 2. **[Nom du Projet 2](lien_vers_projet_2)**: Brève description du projet 2.
 3. **[Nom du Projet 3](lien_vers_projet_3)**: Brève description du projet 3.
 
+
 ## 🛠️ Outils que j'utilise
 
 Voici quelques outils que j'utilise fréquemment :
 
-- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PHPStorm" width="50"/>  PHPStorm
-- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="50"/>  PyCharm
-- <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="50"/>  WebStorm
-- <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50"/>  Docker
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Workstation_16_icon.svg" alt="VMWare" width="50"/>  VMware
+<div style="display: flex; align-items: center;">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PhpStorm_icon.svg" alt="PHPStorm" width="50"/>
+  <span style="margin-left: 10px;">PHPStorm</span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="50"/>
+  <span style="margin-left: 10px;">PyCharm</span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="50"/>
+  <span style="margin-left: 10px;">WebStorm</span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50"/>
+  <span style="margin-left: 10px;">Docker</span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Workstation_16_icon.svg" alt="VMWare" width="50"/>
+  <span style="margin-left: 10px;">VMware</span>
+</div>
 
 ## 👨‍💻 Langages de programmation
 
