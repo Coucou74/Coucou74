@@ -43,7 +43,7 @@ Voici les langages que je connais le mieux :
 
 Voici quelques outils et équipements réseau que j'utilise :
 
-- <  <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" id="wireless">
+- <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" id="wireless">
     <path fill="#2b4255" d="M283.088 1150.111a.5.5 0 0 0-.381.178l-2.553 3a.5.5 0 0 0 .381.822h22a.5.5 0 0 0 .381-.824l-2.562-3a.5.5 0 0 0-.381-.176h-16.885zm.23 1h16.424l1.71 2h-19.835l1.701-2z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
     <path fill="#2b4255" d="M280.535 1144.111a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h22a.5.5 0 0 0 .5-.5v-6a.5.5 0 0 0-.5-.5h-22zm.5 1h21v5h-21v-5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
     <path fill="#f8b84e" d="M7 8h2v2H7zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"></path>
