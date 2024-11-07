@@ -43,7 +43,8 @@ Voici les langages que je connais le mieux :
 
 Voici quelques outils et équipements réseau que j'utilise :
 
-- <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" id="wireless">
+<div style="display: flex; align-items: center;">
+  <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" id="wireless">
     <path fill="#2b4255" d="M283.088 1150.111a.5.5 0 0 0-.381.178l-2.553 3a.5.5 0 0 0 .381.822h22a.5.5 0 0 0 .381-.824l-2.562-3a.5.5 0 0 0-.381-.176h-16.885zm.23 1h16.424l1.71 2h-19.835l1.701-2z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
     <path fill="#2b4255" d="M280.535 1144.111a.5.5 0 0 0-.5.5v6a.5.5 0 0 0 .5.5h22a.5.5 0 0 0 .5-.5v-6a.5.5 0 0 0-.5-.5h-22zm.5 1h21v5h-21v-5z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
     <path fill="#f8b84e" d="M7 8h2v2H7zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"></path>
@@ -55,10 +56,21 @@ Voici quelques outils et équipements réseau que j'utilise :
     <path fill="#f8b84e" d="M7 26h2v2H7zm3 0h2v2h-2zm3 0h2v2h-2zm3 0h2v2h-2z"></path>
     <path fill="#2b4255" d="M19 27h3v1h-3zm0-2h3v1h-3zm4 2h3v1h-3zm0-2h3v1h-3z"></path>
     <path fill="#2b4255" d="M283.088 1159.111a.5.5 0 0 0-.381.178l-2.553 3a.5.5 0 0 0 .381.822h22a.5.5 0 0 0 .381-.824l-2.562-3a.5.5 0 0 0-.381-.176h-16.885zm.23 1h16.424l1.71 2h-19.835l1.701-2zm-.23-19a.5.5 0 0 0-.381.178l-2.553 3a.5.5 0 0 0 .381.822h22a.5.5 0 0 0 .381-.824l-2.562-3a.5.5 0 0 0-.381-.176h-16.885zm.23 1h16.424l1.71 2h-19.835l1.701-2z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" transform="translate(-275.036 -1139.112)"></path>
-  </svg> Switch
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Router-icon.svg" alt="Routeur" width="50"/> Routeur
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Firewall-icon.svg" alt="Firewall" width="50"/> Firewall
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Server-icon.svg" alt="Serveur" width="50"/> Serveur
+  </svg>
+  <span style="margin-left: 10px;">Switch</span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Router-icon.svg" alt="Routeur" width="50"/>
+  <span style="margin-left: 10px;">Routeur</span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Firewall-icon.svg" alt="Firewall" width="50"/>
+  <span style="margin-left: 10px;">Firewall</span>
+</div>
+<div style="display: flex; align-items: center;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Server-icon.svg" alt="Serveur" width="50"/>
+  <span style="margin-left: 10px;">Serveur</span>
+</div>
 
 ## 📫 Contact
 
