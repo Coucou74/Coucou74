@@ -6,7 +6,7 @@ Bonjour, je suis Coucou74, un développeur passionné par la technologie et le d
 
 - **Nom d'utilisateur GitHub**: Coucou74
 - **Passionné par**: Développement web, programmation, et projets open-source.
-- **Langages de programmation préférés**: Python, JavaScript, et C++.
+- **Langages de programmation préférés**: HTML, CSS, PHP, SQL, Python.
 - **Expérience**: J'ai travaillé sur plusieurs projets allant de petites applications web à de grandes applications logicielles.
 
 ## 🌟 Projets
@@ -21,17 +21,30 @@ Voici quelques projets sur lesquels j'ai travaillé :
 
 Voici quelques outils que j'utilise fréquemment :
 
-- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) Visual Studio Code
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git
+- ![PHPStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white) PHPStorm
+- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white) PyCharm
+- ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white) WebStorm
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) Docker
+- ![VMWare](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) VMware
 
 ## 👨‍💻 Langages de programmation
 
 Voici les langages que je connais le mieux :
 
+- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML
+- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS
+- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) PHP
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) SQL
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript
-- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) C++
+
+## 🌐 Réseau
+
+Voici quelques outils et équipements réseau que j'utilise :
+
+- ![Switch](https://img.shields.io/badge/Switch-000000?style=for-the-badge&logo=switch&logoColor=white) Switch
+- ![Routeur](https://img.shields.io/badge/Routeur-000000?style=for-the-badge&logo=router&logoColor=white) Routeur
+- ![Firewall](https://img.shields.io/badge/Firewall-000000?style=for-the-badge&logo=firewall&logoColor=white) Firewall
+- ![Serveur](https://img.shields.io/badge/Serveur-000000?style=for-the-badge&logo=server&logoColor=white) Serveur
 
 ## 📫 Contact
 
