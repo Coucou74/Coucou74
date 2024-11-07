@@ -26,7 +26,7 @@ Voici quelques outils que j'utilise fréquemment :
 - <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" alt="PyCharm" width="50"/>  PyCharm
 - <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg" alt="WebStorm" width="50"/>  WebStorm
 - <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker" width="50"/>  Docker
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/VMware_Workstation_16_icon.svg" alt="VMWare" width="50"/>  VMware
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fvmware-logo-png-vmware-workstation-logo-png-free-transparent-png-clipart-images-840x471.jpg&f=1&nofb=1&ipt=2581630c411815e4cfb3c6b3b98db7c65d8b91a5e1f2a8a810a382b00421e9a8&ipo=images" alt="VMWare" width="50"/>  VMware
 
 ## 👨‍💻 Langages de programmation
 
