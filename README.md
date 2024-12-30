@@ -52,17 +52,17 @@ Je suis passionné par la **technologie réseau**, les **systèmes**, la **sécu
 ## 🎯 Mes Projets en Détails
 
 ```mermaid
-    timeline
-        title Chronologie de Projets
-        2021 : 🎓 Projet automatisation d'un grande maquette de maison en bois - Arduino
-             : 🎓 Recherhce et Amélioration des fauteuil roulant éléctrique - Projet BAC
-        2022 : 💻🌐 Infrastructure Réseaux et System - Eve-ng
-             : 🐍 Traitment de données en Masse - Python
-        2023 : 💻 Infrastructure virtuelle Windows Server - Hyper-V
-             : 🌐 Simulations réseaux avancées - Packet Tracer
-             : 🎓 Création d'un Maquette de Test en Physique (réseau) et Virtuelle (serveur, clent) - Projet de Fin BUT-2
-        2024 : 🐍 Développement de scripts | Client - Serveur - TCP [POO - MutliThrading - TLS] - Python
-             : 📖 Documentation Doctobus - Markdown & Mermaid
+timeline
+    title Chronologie de Projets
+    2021 : 🏠 Projet automatisation d'une grande maquette de maison en bois - Arduino
+         : 🎓 Recherche et Amélioration des fauteuils roulants électriques - Projet BAC
+    2022 : 💻🌐 Infrastructure Réseaux et Systèmes - Eve-ng
+         : 🐍 Traitement de données en Masse - Python
+    2023 : 💻 Infrastructure virtuelle Windows Server - Hyper-V
+         : 🌐 Simulations réseaux avancées - Packet Tracer
+         : 🎓 Création d'une Maquette de Test en Physique (réseau) et Virtuelle (serveur, client) - Projet de Fin BUT-2
+    2024 : 🐍 Développement de scripts | Client - Serveur - TCP [POO - MultiThreading - TLS] - Python
+         : 📖 Documentation Doctobus - Markdown & Mermaid
 ```
 
 ---
@@ -76,3 +76,4 @@ Je suis passionné par la **technologie réseau**, les **systèmes**, la **sécu
     <br>
     <strong> Merci d’avoir visité mon profil GitHub ! 🌟 </strong>
 </div>
+
