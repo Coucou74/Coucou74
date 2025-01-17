@@ -22,12 +22,12 @@ Je suis passionné par la **technologie réseau**, les **systèmes**, la **sécu
 
 | 🛠️ **Outils**         | 📝 **Description**                         |
 |------------------------|--------------------------------------------|
-| 🖥️ **JetBrains IDEs** | PyCharm, PhpStorm, WebStorm                |
-| 🐳 **Virtualisation**  | Docker, VMware, VirtualBox                 |
+| 🖥️ **JetBrains IDEs** | PyCharm, PhpStorm, WebStorm, IntelliJ       |
+| 🐳 **Virtualisation**  | Docker, VMware, VirtualBox, Proxmox, ...   |
 | 🌐 **Réseaux**         | Wireshark                                  |
 | 👾 **Simulations**     | GNS3, EVE-NG, Packet Tracer                |
-| 🔧 **Collaboration**   | Git, GitHub                                |
-| 📚 **Documentation**    | Markdown, mermaid                          |
+| 🔧 **Collaboration**   | Teams, GitHub, GitLab                      |
+| 📚 **Documentation**    | Markdown, Mermaid                         |
 
 ---
 
@@ -36,6 +36,7 @@ Je suis passionné par la **technologie réseau**, les **systèmes**, la **sécu
 - 🔌 **Switchs** : Cisco, Ubiquiti ...
 - 📡 **Routeurs** : Cisco, MikroTik ...
 - 🔥 **Firewalls** : PFSense, Fortinet, Stormshield ...
+- 🎛️ **Contrôleur WiFi** : Cisco, Ubiquiti, ...
 - 📶 **Points d'accès Wifi** : Ubiquiti, Cisco ...
 - 📊 **Supervision** : Grafana, Zabbix ...
 
@@ -44,9 +45,8 @@ Je suis passionné par la **technologie réseau**, les **systèmes**, la **sécu
 ## Mes Préférences
 - **Langage favori** : 🐍 Python
 - **Éditeur de texte** : 🧠 JetBrains IDEs
-- **Versioning** : 📦 Git & GitHub
-- **Documentation** : 📚 Markdown et mermaid
-- **Virtualisation** : 🐳 Docker
+- **Documentation** : 📚 Markdown et Mermaid
+- **Virtualisation** : 🐳 Docker et VMware
 
 
 ## 🎯 Mes Projets en Détails
