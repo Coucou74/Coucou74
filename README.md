@@ -11,10 +11,10 @@ Je suis passionné par la **technologie réseau**, les **systèmes**, la **sécu
 
 - **Nom d'utilisateur GitHub** : Coucou74
 - **Passions** :
-  - 🌐 Configuration Réseau (Switchs, Routeurs)
+  - 🌐 Configuration Réseau (Switchs, Routeurs, ...)
   - 🖥️ Configuration Système (AD, DNS, DHCP ...)
-  - 👨‍💻 Programmation (Python, Bash, PowerShell)
-  - 🛡️ Sécurité Informatique (Firewall, VPN)
+  - 👨‍💻 Programmation (Python, Bash, PowerShell, ...)
+  - 🛡️ Sécurité Informatique (Firewall, Layer 2, ...)
 
 ---
 
